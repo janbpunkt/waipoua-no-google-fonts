@@ -1,0 +1,783 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Waipoua\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-28 20:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: functions.php:43
+msgid "small"
+msgstr ""
+
+#: functions.php:44
+msgid "S"
+msgstr ""
+
+#: functions.php:49
+msgid "regular"
+msgstr ""
+
+#: functions.php:50
+msgid "M"
+msgstr ""
+
+#: functions.php:55
+msgid "large"
+msgstr ""
+
+#: functions.php:56
+msgid "L"
+msgstr ""
+
+#: functions.php:61
+msgid "larger"
+msgstr ""
+
+#: functions.php:62
+msgid "XL"
+msgstr ""
+
+#: functions.php:74
+msgid "black"
+msgstr ""
+
+#: functions.php:79
+msgid "white"
+msgstr ""
+
+#: functions.php:84
+msgid "grey"
+msgstr ""
+
+#: functions.php:89
+msgid "red"
+msgstr ""
+
+#: functions.php:109
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:110
+msgid "Footer Navigation (no sub menus supported)"
+msgstr ""
+
+#: functions.php:186 content-gallery.php:25 content-status.php:21
+#: content-chat.php:25 content.php:35 content-aside.php:25 content-audio.php:25
+#: content-video.php:21 content-quote.php:21 content-featured.php:34
+#: content-link.php:21 content-image.php:21
+msgid "Read more &rarr;"
+msgstr ""
+
+#: functions.php:256
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:257
+msgid "Reply"
+msgstr ""
+
+#. 1: date, 2: time
+#: functions.php:261
+#, php-format
+msgid "%1$s &#64; %2$s"
+msgstr ""
+
+#: functions.php:265 functions.php:286
+msgid "Edit &rarr;"
+msgstr ""
+
+#: functions.php:271
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:285
+msgid "<span>Pingback:</span>"
+msgstr ""
+
+#: functions.php:300
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:302
+msgid "Main sidebar area"
+msgstr ""
+
+#: functions.php:310
+msgid "Header Widget Area"
+msgstr ""
+
+#: functions.php:312
+msgid ""
+"You can include the Social Links Widget, an advertisement banner (e.g. via "
+"the Adrotate plugin) or a text widget to be displayed at the right header "
+"area."
+msgstr ""
+
+#: functions.php:334
+msgid "&larr; Older entries"
+msgstr ""
+
+#: functions.php:335
+msgid "Newer entries &rarr;"
+msgstr ""
+
+#: functions.php:519
+msgid "Flickr Widget"
+msgstr ""
+
+#: functions.php:521
+msgid "Show some Flickr preview images."
+msgstr ""
+
+#: functions.php:563 functions.php:651 functions.php:904
+msgid "Title:"
+msgstr ""
+
+#: functions.php:568
+msgid "Flickr ID:"
+msgstr ""
+
+#: functions.php:573
+msgid "Flickr Profile Link Text:"
+msgstr ""
+
+#: functions.php:578
+msgid "Flickr Profile URL:"
+msgstr ""
+
+#: functions.php:583
+msgid "Number of photos:"
+msgstr ""
+
+#: functions.php:592
+msgid "Choose user or group:"
+msgstr ""
+
+#: functions.php:594
+msgid "User"
+msgstr ""
+
+#: functions.php:595
+msgid "Group"
+msgstr ""
+
+#: functions.php:599
+msgid "Show latest or random pictures:"
+msgstr ""
+
+#: functions.php:601
+msgid "Latest"
+msgstr ""
+
+#: functions.php:602
+msgid "Random"
+msgstr ""
+
+#: functions.php:618
+msgid "Video Widget"
+msgstr ""
+
+#: functions.php:620
+msgid "Show a custom featured video."
+msgstr ""
+
+#: functions.php:656
+msgid "Video embed code:"
+msgstr ""
+
+#: functions.php:673
+msgid "Social Links Widget"
+msgstr ""
+
+#: functions.php:675
+msgid "Link to your social profiles."
+msgstr ""
+
+#: functions.php:909
+msgid "Twitter URL:"
+msgstr ""
+
+#: functions.php:914
+msgid "Facebook URL:"
+msgstr ""
+
+#: functions.php:919
+msgid "Google+ URL:"
+msgstr ""
+
+#: functions.php:924
+msgid "Flickr URL:"
+msgstr ""
+
+#: functions.php:929
+msgid "Instagram URL (e.g. via Instagrid.me):"
+msgstr ""
+
+#: functions.php:934
+msgid "Picasa URL:"
+msgstr ""
+
+#: functions.php:939
+msgid "500px URL:"
+msgstr ""
+
+#: functions.php:944
+msgid "YouTube URL:"
+msgstr ""
+
+#: functions.php:949
+msgid "Vimeo URL:"
+msgstr ""
+
+#: functions.php:954
+msgid "Dribbble URL:"
+msgstr ""
+
+#: functions.php:959
+msgid "Ffffound URL:"
+msgstr ""
+
+#: functions.php:964
+msgid "Pinterest URL:"
+msgstr ""
+
+#: functions.php:969
+msgid "Zootool URL:"
+msgstr ""
+
+#: functions.php:974
+msgid "Behance Network URL:"
+msgstr ""
+
+#: functions.php:979
+msgid "deviantART URL:"
+msgstr ""
+
+#: functions.php:984
+msgid "Squidoo URL:"
+msgstr ""
+
+#: functions.php:989
+msgid "Slideshare URL:"
+msgstr ""
+
+#: functions.php:994
+msgid "Last.fm URL:"
+msgstr ""
+
+#: functions.php:999
+msgid "Grooveshark URL:"
+msgstr ""
+
+#: functions.php:1004
+msgid "Soundcloud URL:"
+msgstr ""
+
+#: functions.php:1009
+msgid "Foursquare URL:"
+msgstr ""
+
+#: functions.php:1014
+msgid "GitHub URL:"
+msgstr ""
+
+#: functions.php:1019
+msgid "Linkedin URL:"
+msgstr ""
+
+#: functions.php:1024
+msgid "Xing URL:"
+msgstr ""
+
+#: functions.php:1029
+msgid "WordPress URL:"
+msgstr ""
+
+#: functions.php:1034
+msgid "Tumblr URL:"
+msgstr ""
+
+#: functions.php:1039
+msgid "RSS-Feed URL:"
+msgstr ""
+
+#: functions.php:1044
+msgid "RSS for Comments URL:"
+msgstr ""
+
+#: content-gallery.php:15 content-single.php:15 content-status.php:15
+#: content-chat.php:15 content.php:15 content-aside.php:15 content-audio.php:15
+#: content-video.php:15 content-quote.php:15 content-featured.php:15
+#: content-link.php:15 content-image.php:15
+msgid "0 comments"
+msgstr ""
+
+#: content-gallery.php:15 content-single.php:15 content-status.php:15
+#: comments.php:29 content-chat.php:15 content.php:15 content-aside.php:15
+#: content-audio.php:15 content-video.php:15 content-quote.php:15
+#: content-featured.php:15 content-link.php:15 content-image.php:15
+#, php-format
+msgid "1 comment"
+msgstr ""
+
+#: content-gallery.php:15 content-single.php:15 content-status.php:15
+#: content-chat.php:15 content.php:15 content-aside.php:15 content-audio.php:15
+#: content-video.php:15 content-quote.php:15 content-featured.php:15
+#: content-link.php:15 content-image.php:15
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: content-gallery.php:15 content-single.php:15 content-status.php:15
+#: content-chat.php:15 content.php:15 content-aside.php:15 content-audio.php:15
+#: content-video.php:15 content-quote.php:15 content-featured.php:15
+#: content-link.php:15 content-image.php:15
+msgid "comments off"
+msgstr ""
+
+#: content-gallery.php:16 content-single.php:16 content-status.php:16
+#: content-page.php:27 content-chat.php:16 content.php:16 content-aside.php:16
+#: content-audio.php:16 content-video.php:16 content-quote.php:16
+#: content-link.php:16 content-image.php:16
+msgid "Edit Post &rarr;"
+msgstr ""
+
+#: content-gallery.php:21 content-chat.php:21 content.php:21
+#: content-aside.php:21 content-audio.php:21 content-featured.php:20
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-gallery.php:30 content-single.php:34 content-status.php:26
+#: content-chat.php:30 content.php:43 content-aside.php:30 content-audio.php:30
+#: content-video.php:26 content-quote.php:26 content-link.php:26
+#: content-image.php:26
+msgid "Posted in:"
+msgstr ""
+
+#: content-single.php:29 content.php:36 content-featured.php:35
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:37
+msgid "Tagged:"
+msgstr ""
+
+#: content-single.php:52
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+#: 404.php:15
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: featured.php:44
+msgid " Featured Posts"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Posts in Category &lsquo;%s&rsquo;"
+msgstr ""
+
+#: archive.php:22
+#, php-format
+msgid "Posts Tagged &lsquo;%s&rsquo;"
+msgstr ""
+
+#: archive.php:26
+#, php-format
+msgid "All Posts by %s"
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:39
+msgid "Archives"
+msgstr ""
+
+#: archive.php:77 search.php:31
+msgid "Nothing Found"
+msgstr ""
+
+#: archive.php:81
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:32
+msgid "&raquo; Write a comment"
+msgstr ""
+
+#: comments.php:48
+msgid "&larr;  Older Comments"
+msgstr ""
+
+#: comments.php:49
+msgid "Newer Comments  &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for &lsquo;%s&rsquo;"
+msgstr ""
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: header.php:52
+msgid "Home"
+msgstr ""
+
+#: header.php:54
+msgid "Menu"
+msgstr ""
+
+#: footer.php:27
+msgid "Proudly powered by"
+msgstr ""
+
+#: footer.php:27
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:27
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:28
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: footer.php:35
+msgid "Top &#8593;"
+msgstr ""
+
+#: footer.php:58
+msgid "en_US"
+msgstr ""
+
+#: share.php:10
+msgid "Share"
+msgstr ""
+
+#: share.php:14
+msgid "Tweet"
+msgstr ""
+
+#: single.php:23
+msgid "Next Post &rarr;"
+msgstr ""
+
+#: single.php:24
+msgid "&larr; Previous Post"
+msgstr ""
+
+#: image.php:62
+#, php-format
+msgid ""
+"<li class=\"image-size\"><span>Image Size:</span> <a href=\"%3$s\" "
+"title=\"Link to full-size image\">%4$s&times;%5$s pixels</a> </li>\n"
+"\t\t\t\t\t\t<li><span>Posted in:</span> <a href=\"%6$s\" title=\"%7$s\">"
+"%7$s</a></li>"
+msgstr ""
+
+#: image.php:82
+msgid "&larr; Previous Image"
+msgstr ""
+
+#: image.php:83
+msgid "Next Image &rarr;"
+msgstr ""
+
+#: searchform.php:10 searchform.php:11
+msgid "Search"
+msgstr ""
+
+#. Name of page
+#: includes/theme-options.php:63 includes/theme-options.php:64
+msgid "Theme Options"
+msgstr ""
+
+#: includes/theme-options.php:80
+msgid "Posts + Sidebar"
+msgstr ""
+
+#: includes/theme-options.php:85
+msgid "Posts + Sticky Posts Column + Sidebar"
+msgstr ""
+
+#: includes/theme-options.php:130
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: includes/theme-options.php:142
+msgid "Custom Link Color"
+msgstr ""
+
+#: includes/theme-options.php:144
+msgid "Link Color"
+msgstr ""
+
+#: includes/theme-options.php:148
+#, php-format
+msgid ""
+"Choose your custom link color (the default Link Color: %s). Do not forget to "
+"include the # before the color value."
+msgstr ""
+
+#: includes/theme-options.php:153 includes/theme-options.php:155
+msgid "Custom Menu Background Color"
+msgstr ""
+
+#: includes/theme-options.php:159
+#, php-format
+msgid ""
+"Choose your own custom main menu background color (default Background Color: "
+"%s)."
+msgstr ""
+
+#: includes/theme-options.php:164 includes/theme-options.php:166
+msgid "Blog Layout Option"
+msgstr ""
+
+#: includes/theme-options.php:186 includes/theme-options.php:188
+msgid "Sticky Posts Headline"
+msgstr ""
+
+#: includes/theme-options.php:190
+msgid ""
+"Customize the Sticky Posts headline on the blogs front page. Default is "
+"\"Featured Posts\" (for the Posts + Sticky Posts Column + Sidebar layout "
+"only)."
+msgstr ""
+
+#: includes/theme-options.php:195
+msgid "Custom Logo"
+msgstr ""
+
+#: includes/theme-options.php:197
+msgid "Custom Logo image"
+msgstr ""
+
+#: includes/theme-options.php:199
+msgid "Upload your own logo image using the "
+msgstr ""
+
+#: includes/theme-options.php:199 includes/theme-options.php:217
+msgid "WordPress Media Uploader"
+msgstr ""
+
+#: includes/theme-options.php:199
+msgid ". Then copy your logo image file URL and insert the URL here."
+msgstr ""
+
+#: includes/theme-options.php:204 includes/theme-options.php:206
+msgid "Custom Favicon"
+msgstr ""
+
+#: includes/theme-options.php:208
+msgid ""
+"Create a <strong>16x16px</strong> image and generate a .ico favicon using a "
+"favicon online generator. Now upload your favicon to your themes folder (via "
+"FTP) and enter your Favicon URL here (the URL path should be similar to: "
+"yourdomain.com/wp-content/themes/waipoua/favicon.ico)."
+msgstr ""
+
+#: includes/theme-options.php:213 includes/theme-options.php:215
+msgid "Custom Apple Touch Icon"
+msgstr ""
+
+#: includes/theme-options.php:217
+msgid ""
+"Create a <strong>128x128px png</strong> image for your webclip icon. Upload "
+"your image using the "
+msgstr ""
+
+#: includes/theme-options.php:217
+msgid ". Now copy the image file URL and insert the URL here."
+msgstr ""
+
+#: includes/theme-options.php:222
+msgid "Custom Footer Text"
+msgstr ""
+
+#: includes/theme-options.php:224
+msgid "Custom Footer text"
+msgstr ""
+
+#: includes/theme-options.php:226
+msgid "Customize the footer credit text. Standard HTML is allowed."
+msgstr ""
+
+#: includes/theme-options.php:231 includes/theme-options.php:233
+msgid "Share option for posts"
+msgstr ""
+
+#: includes/theme-options.php:235
+msgid ""
+"Check this box to include share buttons (for Twitter, Facebook, Google+) on "
+"your blogs front page and on single post pages."
+msgstr ""
+
+#: includes/theme-options.php:240 includes/theme-options.php:242
+msgid "Share option for single post pages only"
+msgstr ""
+
+#: includes/theme-options.php:244
+msgid ""
+"Check this box to include the share post buttons <strong>only</strong> on "
+"single post pages (below the post content)."
+msgstr ""
+
+#: includes/theme-options.php:249 includes/theme-options.php:251
+msgid "Share option for pages"
+msgstr ""
+
+#: includes/theme-options.php:253
+msgid "Check this box to also include the share buttons on pages."
+msgstr ""
+
+#. Name of the theme
+msgid "Waipoua"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Waipoua is mobile-first, responsive WordPress blog theme (optimized for "
+"smartphones, tablets and desktop computers) with post format support, two- "
+"or three-column blog layout, a featured posts column option, an easy to use "
+"theme-options page, a custom logo and background option and sidebar and "
+"header widget areas. The modern, minimalistic theme design focuses on "
+"usability and optimized readability on different devices."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.elmastudio.de/en/themes/waipoua/"
+msgstr ""
+
+#. Author of the theme
+msgid "Elmastudio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.elmastudio.de/en/"
+msgstr ""
+
+msgid ""
+"<strong>%s</strong> supports automatic updates using WordPress' update "
+"mechanism. To use this feature you need to activate the theme using your "
+"Product Key, which can be found in your Elmastudio account dashboard. The "
+"theme stays fully functional without activation and still can be updated "
+"manually. %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+
+msgid " Activation"
+msgstr ""
+
+msgid " Product Key Activation"
+msgstr ""
+
+msgid "Product Key Activation"
+msgstr ""
+
+msgid "Product Key Deactivation"
+msgstr ""
+
+msgid "Product Key"
+msgstr ""
+
+msgid "Product ID"
+msgstr ""
+
+msgid "Product Key Status"
+msgstr ""
+
+msgid "Deactivate Product Key"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Activated"
+msgstr ""
+
+msgid "Deactivated"
+msgstr ""
+
+msgid ""
+"Connection failed to the Elmastudio server. Try again later. There may be a "
+"problem on your server preventing outgoing requests."
+msgstr ""
+
+msgid "Product Key deactivated."
+msgstr ""
+
+msgid ""
+"The Product Key could not be deactivated. Use the Product Key Deactivation "
+"tab to manually deactivate the Product Key before activating a new Product "
+"Key."
+msgstr ""
+
+msgid "Deactivates an Product Key so it can be used on another blog."
+msgstr ""
+
+msgid "%s activated."
+msgstr ""

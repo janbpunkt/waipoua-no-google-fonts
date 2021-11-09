@@ -1,0 +1,839 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Waipoua v1.0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-28 20:34+0000\n"
+"PO-Revision-Date: 2019-12-28 20:35+0000\n"
+"Last-Translator: admin <yourname@yourdomain.com>\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Loco-Version: 2.3.1; wp-5.1.4"
+
+#: functions.php:43
+msgid "small"
+msgstr "klein"
+
+#: functions.php:44
+msgid "S"
+msgstr ""
+
+#: functions.php:49
+msgid "regular"
+msgstr "normal"
+
+#: functions.php:50
+msgid "M"
+msgstr ""
+
+#: functions.php:55
+msgid "large"
+msgstr "groß"
+
+#: functions.php:56
+msgid "L"
+msgstr ""
+
+#: functions.php:61
+msgid "larger"
+msgstr "größer"
+
+#: functions.php:62
+msgid "XL"
+msgstr ""
+
+#: functions.php:74
+msgid "black"
+msgstr "schwarz"
+
+#: functions.php:79
+msgid "white"
+msgstr "weiß"
+
+#: functions.php:84
+msgid "grey"
+msgstr "grau"
+
+#: functions.php:89
+msgid "red"
+msgstr "rot"
+
+#: functions.php:109
+msgid "Primary Navigation"
+msgstr "Haupt-Navigation"
+
+#: functions.php:110
+msgid "Footer Navigation (no sub menus supported)"
+msgstr "Footer Navigation (es werden keine Untermenüs unterstützt)"
+
+#: functions.php:186 content-gallery.php:25 content-status.php:21
+#: content-chat.php:25 content.php:35 content-aside.php:25 content-audio.php:25
+#: content-video.php:21 content-quote.php:21 content-featured.php:34
+#: content-link.php:21 content-image.php:21
+msgid "Read more &rarr;"
+msgstr "Weiterlesen &rarr;"
+
+#: functions.php:256
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: functions.php:257
+msgid "Reply"
+msgstr "Antworten"
+
+#. translators: 1: date, 2: time
+#: functions.php:261
+#, php-format
+msgid "%1$s &#64; %2$s"
+msgstr "%1$s &#64; %2$s"
+
+#: functions.php:265 functions.php:286
+msgid "Edit &rarr;"
+msgstr "Bearbeiten &rarr;"
+
+#: functions.php:271
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar befindet sich in Moderation."
+
+#: functions.php:285
+msgid "<span>Pingback:</span>"
+msgstr "<span>Pingback:</span>"
+
+#: functions.php:300
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:302
+msgid "Main sidebar area"
+msgstr "Haupt-Sidebarbereich"
+
+#: functions.php:310
+msgid "Header Widget Area"
+msgstr "Header Widgetbereich"
+
+#: functions.php:312
+msgid ""
+"You can include the Social Links Widget, an advertisement banner (e.g. via "
+"the Adrotate plugin) or a text widget to be displayed at the right header "
+"area."
+msgstr ""
+"Du kannst das Social Links Widget, einen Werbebanner (z.B. mit Hilfe des "
+"Adrotate Plugins) oder ein Text-Widget im rechten Header-Bereich integrieren."
+
+#: functions.php:334
+msgid "&larr; Older entries"
+msgstr "&larr; Ältere Einträge"
+
+#: functions.php:335
+msgid "Newer entries &rarr;"
+msgstr "Neuere Einträge &rarr;"
+
+#: functions.php:519
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+#: functions.php:521
+msgid "Show some Flickr preview images."
+msgstr ""
+
+#: functions.php:563 functions.php:651 functions.php:904
+msgid "Title:"
+msgstr "Titel:"
+
+#: functions.php:568
+msgid "Flickr ID:"
+msgstr ""
+
+#: functions.php:573
+msgid "Flickr Profile Link Text:"
+msgstr "Flickr-Profil Link-Text:"
+
+#: functions.php:578
+msgid "Flickr Profile URL:"
+msgstr "Flickr-Profil URL:"
+
+#: functions.php:583
+msgid "Number of photos:"
+msgstr "Anzahl der Bilder:"
+
+#: functions.php:592
+msgid "Choose user or group:"
+msgstr "Wähle Person oder Gruppe:"
+
+#: functions.php:594
+msgid "User"
+msgstr "Person"
+
+#: functions.php:595
+msgid "Group"
+msgstr "Gruppe"
+
+#: functions.php:599
+msgid "Show latest or random pictures:"
+msgstr "Zeige neuste oder zufällige Bilder:"
+
+#: functions.php:601
+msgid "Latest"
+msgstr "Neuste"
+
+#: functions.php:602
+msgid "Random"
+msgstr "Zufällige"
+
+#: functions.php:618
+msgid "Video Widget"
+msgstr "Video Widget"
+
+#: functions.php:620
+msgid "Show a custom featured video."
+msgstr ""
+
+#: functions.php:656
+msgid "Video embed code:"
+msgstr "Video-Einbettungscode:"
+
+#: functions.php:673
+msgid "Social Links Widget"
+msgstr "Social Links Widget"
+
+#: functions.php:675
+msgid "Link to your social profiles."
+msgstr "Linke zu deinen sozialen Profilen:"
+
+#: functions.php:909
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: functions.php:914
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: functions.php:919
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+#: functions.php:924
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+#: functions.php:929
+msgid "Instagram URL (e.g. via Instagrid.me):"
+msgstr "Instagram URL (z.B. mit Instagrid.me):"
+
+#: functions.php:934
+msgid "Picasa URL:"
+msgstr "Picasa URL:"
+
+#: functions.php:939
+msgid "500px URL:"
+msgstr "500px URL:"
+
+#: functions.php:944
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+#: functions.php:949
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+#: functions.php:954
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+#: functions.php:959
+msgid "Ffffound URL:"
+msgstr "Ffffound URL:"
+
+#: functions.php:964
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: functions.php:969
+msgid "Zootool URL:"
+msgstr "Zootool URL:"
+
+#: functions.php:974
+msgid "Behance Network URL:"
+msgstr "Behance Network URL:"
+
+#: functions.php:979
+msgid "deviantART URL:"
+msgstr "deviantART URL:"
+
+#: functions.php:984
+msgid "Squidoo URL:"
+msgstr "Squidoo URL:"
+
+#: functions.php:989
+msgid "Slideshare URL:"
+msgstr "Slideshare URL:"
+
+#: functions.php:994
+msgid "Last.fm URL:"
+msgstr "Last.fm URL:"
+
+#: functions.php:999
+msgid "Grooveshark URL:"
+msgstr "Grooveshark URL:"
+
+#: functions.php:1004
+msgid "Soundcloud URL:"
+msgstr "Soundcloud URL:"
+
+#: functions.php:1009
+msgid "Foursquare URL:"
+msgstr "Foursquare URL:"
+
+#: functions.php:1014
+msgid "GitHub URL:"
+msgstr "GitHub URL:"
+
+#: functions.php:1019
+msgid "Linkedin URL:"
+msgstr "Linkedin URL:"
+
+#: functions.php:1024
+msgid "Xing URL:"
+msgstr "Xing URL:"
+
+#: functions.php:1029
+msgid "WordPress URL:"
+msgstr "WordPress URL:"
+
+#: functions.php:1034
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+#: functions.php:1039
+msgid "RSS-Feed URL:"
+msgstr "RSS-Feed URL:"
+
+#: functions.php:1044
+msgid "RSS for Comments URL:"
+msgstr "RSS der Kommentare URL:"
+
+#: content-gallery.php:15 content-single.php:15 content-status.php:15
+#: content-chat.php:15 content.php:15 content-aside.php:15 content-audio.php:15
+#: content-video.php:15 content-quote.php:15 content-featured.php:15
+#: content-link.php:15 content-image.php:15
+msgid "0 comments"
+msgstr "0 Kommentare"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: content-gallery.php:15 content-single.php:15 content-status.php:15
+#: comments.php:29 content-chat.php:15 content.php:15 content-aside.php:15
+#: content-audio.php:15 content-video.php:15 content-quote.php:15
+#: content-featured.php:15 content-link.php:15 content-image.php:15
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+#: content-gallery.php:15 content-single.php:15 content-status.php:15
+#: content-chat.php:15 content.php:15 content-aside.php:15 content-audio.php:15
+#: content-video.php:15 content-quote.php:15 content-featured.php:15
+#: content-link.php:15 content-image.php:15
+#, php-format
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: content-gallery.php:15 content-single.php:15 content-status.php:15
+#: content-chat.php:15 content.php:15 content-aside.php:15 content-audio.php:15
+#: content-video.php:15 content-quote.php:15 content-featured.php:15
+#: content-link.php:15 content-image.php:15
+msgid "comments off"
+msgstr "Kommentare deaktiviert"
+
+#: content-gallery.php:16 content-single.php:16 content-status.php:16
+#: content-page.php:27 content-chat.php:16 content.php:16 content-aside.php:16
+#: content-audio.php:16 content-video.php:16 content-quote.php:16
+#: content-link.php:16 content-image.php:16
+msgid "Edit Post &rarr;"
+msgstr "Artikel bearbeiten &rarr;"
+
+#: content-gallery.php:21 content-chat.php:21 content.php:21
+#: content-aside.php:21 content-audio.php:21 content-featured.php:20
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: content-gallery.php:30 content-single.php:34 content-status.php:26
+#: content-chat.php:30 content.php:43 content-aside.php:30 content-audio.php:30
+#: content-video.php:26 content-quote.php:26 content-link.php:26
+#: content-image.php:26
+msgid "Posted in:"
+msgstr "Veröffentlicht in:"
+
+#: content-single.php:29 content.php:36 content-featured.php:35
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-single.php:37
+msgid "Tagged:"
+msgstr "Schlagwort:"
+
+#: content-single.php:52
+#, php-format
+msgid "Posted by %s"
+msgstr "Veröffentlicht von %s"
+
+#: 404.php:15
+msgid "Not Found"
+msgstr "Nichts gefunden"
+
+#: 404.php:19
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Entschuldigung, aber die Seite konnte leider nicht gefunden werden. "
+"Vielleicht findest du ein Ergebnis über die Suchfunktion."
+
+#: featured.php:44
+msgid " Featured Posts"
+msgstr "Beliebte Artikel"
+
+#: archive.php:19
+#, php-format
+msgid "Posts in Category &lsquo;%s&rsquo;"
+msgstr "Artikel in der Kategorie &lsquo;%s&rsquo;"
+
+#: archive.php:22
+#, php-format
+msgid "Posts Tagged &lsquo;%s&rsquo;"
+msgstr "Artikel mit dem Schlagwort &lsquo;%s&rsquo;"
+
+#: archive.php:26
+#, php-format
+msgid "All Posts by %s"
+msgstr "Alle Artikel von %s"
+
+#: archive.php:30
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archiv von: %s"
+
+#: archive.php:33
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archiv des Monats: %s"
+
+#: archive.php:36
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archiv des Jahres: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archiv"
+
+#: archive.php:77 search.php:31
+msgid "Nothing Found"
+msgstr "Keine Einträge gefunden"
+
+#: archive.php:81
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Leider kann kein Eintrag zu diesem Suchbegriff gefunden werden. Vielleicht "
+"ist die Suche mit einem alternativen Schlagwort erfolgreich."
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dieser Artikel ist Passwort geschützt. Trage das Passwort ein, um die "
+"Kommentare zu sehen."
+
+#: comments.php:32
+msgid "&raquo; Write a comment"
+msgstr "&raquo; Schreibe einen Kommentar"
+
+#: comments.php:48
+msgid "&larr;  Older Comments"
+msgstr "&larr;  Ältere Kommentare"
+
+#: comments.php:49
+msgid "Newer Comments  &rarr;"
+msgstr "Neuere Kommentare  &rarr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: search.php:15
+#, php-format
+msgid "Search Results for &lsquo;%s&rsquo;"
+msgstr "Suchergebnisse für &lsquo;%s&rsquo;"
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Entschuldigung, leider wurde zu deiner Suchanfrage kein Eintrag gefunden. "
+"Bitte versuche es noch einmal mit anderen Schlagwörtern."
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: header.php:52
+msgid "Home"
+msgstr "Home"
+
+#: header.php:54
+msgid "Menu"
+msgstr "Menü"
+
+#: footer.php:27
+msgid "Proudly powered by"
+msgstr "Proudly powered by"
+
+#: footer.php:27
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:27
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:28
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr "Theme: %1$s von %2$s"
+
+#: footer.php:35
+msgid "Top &#8593;"
+msgstr "Top &#8593;"
+
+#: footer.php:58
+msgid "en_US"
+msgstr "de_DE"
+
+#: share.php:10
+msgid "Share"
+msgstr "Teilen"
+
+#: share.php:14
+msgid "Tweet"
+msgstr "Twitter"
+
+#: single.php:23
+msgid "Next Post &rarr;"
+msgstr "Nächster Artikel &rarr;"
+
+#: single.php:24
+msgid "&larr; Previous Post"
+msgstr "&larr; Vorheriger Artikel"
+
+#: image.php:62
+#, php-format
+msgid ""
+"<li class=\"image-size\"><span>Image Size:</span> <a href=\"%3$s\" "
+"title=\"Link to full-size image\">%4$s&times;%5$s pixels</a> </li>\n"
+"\t\t\t\t\t\t<li><span>Posted in:</span> <a href=\"%6$s\" title=\"%7$s\">"
+"%7$s</a></li>"
+msgstr ""
+"<li class=\\\"image-size\\\"><span>Bildgröße:</span> <a href=\\\"%3$s\\\" "
+"title=\\\"Link to full-size image\\\">%4$s&times;%5$s pixels</a> </li><li>"
+"<span>Veröffentlicht in:</span> <a href=\\\"%6$s\\\" title=\\\"%7$s\\\">"
+"%7$s</a></li>"
+
+#: image.php:82
+msgid "&larr; Previous Image"
+msgstr "&larr; Vorheriges Bild"
+
+#: image.php:83
+msgid "Next Image &rarr;"
+msgstr "Nächstes Bild &rarr;"
+
+#: searchform.php:10 searchform.php:11
+msgid "Search"
+msgstr "Suche"
+
+#: includes/theme-options.php:63 includes/theme-options.php:64
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: includes/theme-options.php:80
+msgid "Posts + Sidebar"
+msgstr "Artikel + Sidebar"
+
+#: includes/theme-options.php:85
+msgid "Posts + Sticky Posts Column + Sidebar"
+msgstr "Artikel + Sticky Posts + Sidebar"
+
+#: includes/theme-options.php:130
+#, php-format
+msgid "%s Theme Options"
+msgstr "%s Theme Optionen"
+
+#: includes/theme-options.php:142
+msgid "Custom Link Color"
+msgstr "Eigene Linkfarbe"
+
+#: includes/theme-options.php:144
+msgid "Link Color"
+msgstr "Linkfarbe"
+
+#: includes/theme-options.php:148
+#, php-format
+msgid ""
+"Choose your custom link color (the default Link Color: %s). Do not forget to "
+"include the # before the color value."
+msgstr ""
+"Wähle deine individuelle Linkfarbe (die Standard-Linkfarbe ist: %s). Vergiß "
+"nicht, ein # vor den Farbwert zu setzen."
+
+#: includes/theme-options.php:153 includes/theme-options.php:155
+msgid "Custom Menu Background Color"
+msgstr "Eigene Menü-Hintergrundfarbe"
+
+#: includes/theme-options.php:159
+#, php-format
+msgid ""
+"Choose your own custom main menu background color (default Background Color: "
+"%s)."
+msgstr ""
+"Wähle deine eigene Hauptmenü Hintergrundfarbe (die Standardfarbe ist: %s)."
+
+#: includes/theme-options.php:164 includes/theme-options.php:166
+msgid "Blog Layout Option"
+msgstr "Blog-Layout Option"
+
+#: includes/theme-options.php:186 includes/theme-options.php:188
+msgid "Sticky Posts Headline"
+msgstr "Sticky Posts Überschrift"
+
+#: includes/theme-options.php:190
+msgid ""
+"Customize the Sticky Posts headline on the blogs front page. Default is "
+"\"Featured Posts\" (for the Posts + Sticky Posts Column + Sidebar layout "
+"only)."
+msgstr ""
+"Hier kannst du die Sticky Posts Überschrift auf der Blog-Startseite anpassen."
+" Die Standard-Überschrift lautet \"Beliebte Artikel\"  (du benötigst die "
+"Überschrift nur, wenn du die Artikel + Sticky Posts + Sidebar Layout-Option "
+"gewählt hast)."
+
+#: includes/theme-options.php:195
+msgid "Custom Logo"
+msgstr "Eigenes Logobild"
+
+#: includes/theme-options.php:197
+msgid "Custom Logo image"
+msgstr "Eigenes Logobild"
+
+#: includes/theme-options.php:199
+msgid "Upload your own logo image using the "
+msgstr "Lade dein eigenes Logo-Bild hoch "
+
+#: includes/theme-options.php:199 includes/theme-options.php:217
+msgid "WordPress Media Uploader"
+msgstr "WordPress Mediathek"
+
+#: includes/theme-options.php:199
+msgid ". Then copy your logo image file URL and insert the URL here."
+msgstr ". Dann kopiere deine Logobild-URL und trage die URL hier ein."
+
+#: includes/theme-options.php:204 includes/theme-options.php:206
+msgid "Custom Favicon"
+msgstr "Eigenes Favicon"
+
+#: includes/theme-options.php:208
+msgid ""
+"Create a <strong>16x16px</strong> image and generate a .ico favicon using a "
+"favicon online generator. Now upload your favicon to your themes folder (via "
+"FTP) and enter your Favicon URL here (the URL path should be similar to: "
+"yourdomain.com/wp-content/themes/waipoua/favicon.ico)."
+msgstr ""
+"Erstelle ein <strong>16x16px</strong> Bild und generiere eine .ico Favicon-"
+"Datei (z.B. mit einem Online-Favicon Generator). Dann lade die Datei mit "
+"einem FTP-Programm auf deinen Server hoch und trade die URL der Datei hier "
+"ein:"
+
+#: includes/theme-options.php:213 includes/theme-options.php:215
+msgid "Custom Apple Touch Icon"
+msgstr "Eigenes Apple Touch Icon"
+
+#: includes/theme-options.php:217
+msgid ""
+"Create a <strong>128x128px png</strong> image for your webclip icon. Upload "
+"your image using the "
+msgstr ""
+"Erstelle ein <strong>128x128px png</strong> Bild für dein Apple Webclip-Icon."
+" Lade das Bild über die "
+
+#: includes/theme-options.php:217
+msgid ". Now copy the image file URL and insert the URL here."
+msgstr " hoch. Dann kopiere die Bild-URL und füge sie hier ein."
+
+#: includes/theme-options.php:222
+msgid "Custom Footer Text"
+msgstr "Individueller Footertext"
+
+#: includes/theme-options.php:224
+msgid "Custom Footer text"
+msgstr "Footer Text anpassen"
+
+#: includes/theme-options.php:226
+msgid "Customize the footer credit text. Standard HTML is allowed."
+msgstr "Trage deinen eigenen Footer-Text ein. Standard HTML-Code ist möglich."
+
+#: includes/theme-options.php:231 includes/theme-options.php:233
+msgid "Share option for posts"
+msgstr "Teilen-Buttons für Artikel"
+
+#: includes/theme-options.php:235
+msgid ""
+"Check this box to include share buttons (for Twitter, Facebook, Google+) on "
+"your blogs front page and on single post pages."
+msgstr ""
+"Wähle diese Option, um die Share-Buttons (für Twitter, Google+, Facebook) "
+"auf der Blog-Startseite, sowie auf Artikel-Einzelseiten anzuzeigen."
+
+#: includes/theme-options.php:240 includes/theme-options.php:242
+msgid "Share option for single post pages only"
+msgstr "Teilen-Buttons nur auf Einzelartikel-Seiten"
+
+#: includes/theme-options.php:244
+msgid ""
+"Check this box to include the share post buttons <strong>only</strong> on "
+"single post pages (below the post content)."
+msgstr ""
+"Wähle diese Option, um die Teilen-Buttons <strong>nur</strong> auf den "
+"Artikel-Einzelseiten (unterhalb des Artikels) zu integrieren."
+
+#: includes/theme-options.php:249 includes/theme-options.php:251
+msgid "Share option for pages"
+msgstr "Teilen-Buttons für Seiten"
+
+#: includes/theme-options.php:253
+msgid "Check this box to also include the share buttons on pages."
+msgstr ""
+"Wähle diese Option, um die Teilen-Buttons auch auf deinen Seiten anzuzeigen."
+
+#. Name of the theme
+msgid "Waipoua"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Waipoua is mobile-first, responsive WordPress blog theme (optimized for "
+"smartphones, tablets and desktop computers) with post format support, two- "
+"or three-column blog layout, a featured posts column option, an easy to use "
+"theme-options page, a custom logo and background option and sidebar and "
+"header widget areas. The modern, minimalistic theme design focuses on "
+"usability and optimized readability on different devices."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.elmastudio.de/en/themes/waipoua/"
+msgstr ""
+
+#. Author of the theme
+msgid "Elmastudio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.elmastudio.de/en/"
+msgstr "https://www.elmastudio.de/"
+
+msgid ""
+"<strong>%s</strong> supports automatic updates using WordPress' update "
+"mechanism. To use this feature you need to activate the theme using your "
+"Product Key, which can be found in your Elmastudio account dashboard. The "
+"theme stays fully functional without activation and still can be updated "
+"manually. %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+"<strong>%s</strong> unterstützt automatische Updates über den "
+"Aktualisierungsmechanismus von WordPress. Dazu muss das Theme mit einem "
+"Produktschlüssel aktiviert werden, den du in deinem Elmastudio-Konto findest."
+" Das Theme funktioniert uneingeschränkt auch ohne diese Aktivierung und "
+"lässt sich jederzeit manuell aktualisieren. %sKlicke hier%s um <strong>"
+"%s</strong> zu aktivieren."
+
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+"<strong>Achtung!</strong> Du blockierst externe Anfragen, so dass keine %s-"
+"Updates geladen werden können. Bitte füge %s zu deinen %s hinzu."
+
+msgid " Activation"
+msgstr "-Aktivierung"
+
+msgid " Product Key Activation"
+msgstr "-Produktschlüssel-Aktivierung"
+
+msgid "Product Key Activation"
+msgstr "Produktschlüssel-Aktivierung"
+
+msgid "Product Key Deactivation"
+msgstr "Produktschlüssel-Deaktivierung"
+
+msgid "Product Key"
+msgstr "Produktschlüssel"
+
+msgid "Product ID"
+msgstr "Produkt-ID"
+
+msgid "Product Key Status"
+msgstr "Produktschlüssel-Status"
+
+msgid "Deactivate Product Key"
+msgstr "Deaktiviere Produktschlüssel"
+
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+msgid "Activated"
+msgstr "Aktiviert"
+
+msgid "Deactivated"
+msgstr "Deaktiviert"
+
+msgid ""
+"Connection failed to the Elmastudio server. Try again later. There may be a "
+"problem on your server preventing outgoing requests."
+msgstr ""
+"Die Verbindung zum Elmastudio-Server konnte nicht hergestellt werden. Bitte "
+"versuche es später erneut. Auf deinem Server könnte es ein Problem geben, "
+"welches ausgehende Verbindungen einschränkt."
+
+msgid "Product Key deactivated."
+msgstr "Produktschlüssel deaktiviert."
+
+msgid ""
+"The Product Key could not be deactivated. Use the Product Key Deactivation "
+"tab to manually deactivate the Product Key before activating a new Product "
+"Key."
+msgstr ""
+"Der Produktschlüssel konnte nicht deaktiviert werden. Klicke auf "
+"Produktschlüssel-Deaktivierung und deaktiviere den Produktschlüssel manuell "
+"bevor du den neuen Produktschlüssel aktivierst."
+
+msgid "Deactivates an Product Key so it can be used on another blog."
+msgstr ""
+"Deaktiviert einen Produktschlüssel, so dass dieser auf einer anderen Seite "
+"verwendet werden kann."
+
+msgid "%s activated."
+msgstr "%s aktiviert."

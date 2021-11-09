@@ -1,0 +1,853 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Waipoua v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-10 16:52+0100\n"
+"Last-Translator: David Bosman <david@davidbosman.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ waipoua
+#: 404.php:15
+msgid "Not Found"
+msgstr "Pas trouvé"
+
+# @ waipoua
+#: 404.php:19
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Toutes nos excuses, mais la page recherchée n'a pas pu être trouvée. Peut-"
+"être une recherche aidera."
+
+# @ waipoua
+#: content-featured.php:35 content-single.php:29 content.php:36
+msgid "Pages:"
+msgstr "Pages :"
+
+# @ waipoua
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Ce billet est protégé par un mot de passe. Entrez le mot de passe pour voir "
+"les commentaires."
+
+# @ waipoua
+#: content-aside.php:21 content-audio.php:21 content-chat.php:21
+#: content-featured.php:20 content-gallery.php:21 content.php:21
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalien vers %s"
+
+# @ waipoua
+#: functions.php:70
+msgid "Primary Navigation"
+msgstr "Navigation principale"
+
+# @ waipoua
+#: header.php:37
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+# @ waipoua
+#: functions.php:185
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+# @ waipoua
+#: functions.php:200
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+# @ waipoua
+#: archive.php:77 search.php:31
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+# @ waipoua
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, aucun résultat ne correspond à vos critères de recherche. Essayez à "
+"nouveau avec d'autres mots clés."
+
+# @ waipoua
+#: functions.php:494 functions.php:581 functions.php:891
+msgid "Title:"
+msgstr "Titre :"
+
+# @ default
+#: includes/theme-options.php:199
+msgid "custom_logo"
+msgstr "custom_logo"
+
+# @ waipoua
+#: comments.php:74
+msgctxt "noun"
+msgid "Message <span class=\"required\">*</span>"
+msgstr "Message <span class=\"required\">*</span>"
+
+# @ waipoua
+#: includes/theme-options.php:63 includes/theme-options.php:64
+msgid "Theme Options"
+msgstr "Options du thème"
+
+# @ waipoua
+#: includes/theme-options.php:131
+#, php-format
+msgid "%s Theme Options"
+msgstr "%s options de thème"
+
+# @ waipoua
+#: includes/theme-options.php:145
+msgid "Link Color"
+msgstr "Couleur de lien"
+
+# @ waipoua
+#: functions.php:186
+msgid "Reply"
+msgstr "Répondre"
+
+# @ waipoua
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+# @ waipoua
+#: functions.php:514
+msgid "Number of photos:"
+msgstr "Nombre de photos :"
+
+# @ waipoua
+#: functions.php:525
+msgid "User"
+msgstr "Utilisateur"
+
+# @ waipoua
+#: functions.php:526
+msgid "Group"
+msgstr "Groupe"
+
+# @ waipoua
+#: functions.php:530
+msgid "Show latest or random pictures:"
+msgstr "Afficher la dernière ou une image au hasard :"
+
+# @ waipoua
+#: functions.php:532
+msgid "Latest"
+msgstr "Nouveau"
+
+# @ waipoua
+#: functions.php:533
+msgid "Random"
+msgstr "Au hasard"
+
+# @ waipoua
+#: functions.php:523
+msgid "Choose user or group:"
+msgstr "Choisissez un utilisateur ou groupe :"
+
+# @ waipoua
+#: functions.php:453
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+# @ waipoua
+#: functions.php:499
+msgid ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+
+# @ waipoua
+#: includes/theme-options.php:198
+msgid "Custom Logo image"
+msgstr "Image du logo personnalisé"
+
+# @ waipoua
+#: includes/theme-options.php:205 includes/theme-options.php:207
+msgid "Custom Favicon"
+msgstr "Favicon personnalisé"
+
+# @ default
+#: includes/theme-options.php:208
+msgid "custom_favicon"
+msgstr "custom_favicon"
+
+# @ waipoua
+#: includes/theme-options.php:225
+msgid "Custom Footer text"
+msgstr "Pied de page personnalisé"
+
+# @ waipoua
+#: includes/theme-options.php:227
+msgid "Customize the footer credit text. Standard HTML is allowed."
+msgstr "Personnalisez le texte du pied de page. Le HTML standard est autorisé."
+
+# @ waipoua
+#: content-aside.php:15 content-audio.php:15 content-chat.php:15
+#: content-featured.php:15 content-gallery.php:15 content-image.php:15
+#: content-link.php:15 content-quote.php:15 content-single.php:15
+#: content-status.php:15 content-video.php:15 content.php:15
+msgid "0 comments"
+msgstr "0 commentaire"
+
+# @ waipoua
+#: content-aside.php:15 content-audio.php:15 content-chat.php:15
+#: content-featured.php:15 content-gallery.php:15 content-image.php:15
+#: content-link.php:15 content-quote.php:15 content-single.php:15
+#: content-status.php:15 content-video.php:15 content.php:15
+msgid "% comments"
+msgstr "% commentaires"
+
+# @ waipoua
+#: content-aside.php:15 content-audio.php:15 content-chat.php:15
+#: content-featured.php:15 content-gallery.php:15 content-image.php:15
+#: content-link.php:15 content-quote.php:15 content-single.php:15
+#: content-status.php:15 content-video.php:15 content.php:15
+msgid "comments off"
+msgstr "Commentaires désactivés"
+
+# @ waipoua
+#. translators: 1: date, 2: time
+#: functions.php:190
+#, php-format
+msgid "%1$s &#64; %2$s"
+msgstr "%1$s &#64; %2$s"
+
+# @ waipoua
+#: comments.php:73
+msgid ""
+"<p class=\"comment-note\">Required fields are marked <span class=\"required"
+"\">*</span>.</p>"
+msgstr ""
+"<p class=\"comment-note\">Les champs obligatoires sont marqués d'une <span "
+"class=\"required\">*</span>.</p>"
+
+# @ waipoua
+#: functions.php:504
+msgid "Flickr Profile Link Text:"
+msgstr "Texte du lien pour le profil Flickr :"
+
+# @ waipoua
+#: functions.php:509
+msgid "Flickr Profile URL:"
+msgstr "URL du profil Flickr :"
+
+# @ waipoua
+#: functions.php:551
+msgid "Video Widget"
+msgstr "Widget vidéo"
+
+# @ waipoua
+#: functions.php:586
+msgid "Video embed code:"
+msgstr "Video embed code :"
+
+# @ waipoua
+#: footer.php:20
+msgid "WordPress"
+msgstr "WordPress"
+
+# @ waipoua
+#: content-single.php:52
+#, php-format
+msgid "Posted by %s"
+msgstr "Posté par %s"
+
+# @ waipoua
+#: includes/theme-options.php:196
+msgid "Custom Logo"
+msgstr "Logo personnalisé"
+
+# @ waipoua
+#: includes/theme-options.php:232 includes/theme-options.php:234
+msgid "Share option for posts"
+msgstr "Options de partage pour les billets"
+
+# @ waipoua
+#: includes/theme-options.php:241 includes/theme-options.php:243
+msgid "Share option for single post pages only"
+msgstr "Options de partage uniquement pour la page individuelle d'un billet"
+
+# @ waipoua
+#: includes/theme-options.php:250 includes/theme-options.php:252
+msgid "Share option for pages"
+msgstr "Options de partage pour les pages"
+
+# @ waipoua
+#: share.php:14
+msgid "Tweet"
+msgstr "Twitter"
+
+# @ waipoua
+#: includes/theme-options.php:200 includes/theme-options.php:218
+msgid "WordPress Media Uploader"
+msgstr "WordPress Media Uploader"
+
+# @ waipoua
+#: footer.php:51
+msgid "en_US"
+msgstr "fr_FR"
+
+# @ waipoua
+#: functions.php:214
+msgid "<span>Pingback:</span>"
+msgstr "<span>Rétrolien :</span>"
+
+# @ waipoua
+#: includes/theme-options.php:200
+msgid "Upload your own logo image using the "
+msgstr "Uploadez votre propre image pour le logo en utilisant"
+
+# @ waipoua
+#: includes/theme-options.php:143
+msgid "Custom Link Color"
+msgstr "Couleur de lien personnalisée"
+
+# @ waipoua
+#: comments.php:48
+msgid "&larr;  Older Comments"
+msgstr "&larr;  Commentaires plus anciens"
+
+# @ waipoua
+#: comments.php:49
+msgid "Newer Comments  &rarr;"
+msgstr "Commentaires plus récents  &rarr;"
+
+# @ waipoua
+#: functions.php:194 functions.php:215
+msgid "Edit &rarr;"
+msgstr "Editer &rarr;"
+
+# @ waipoua
+#: content-aside.php:25 content-audio.php:25 content-chat.php:25
+#: content-featured.php:34 content-gallery.php:25 content-image.php:21
+#: content-link.php:21 content-quote.php:21 content-status.php:21
+#: content-video.php:21 content.php:35 functions.php:125
+msgid "Read more &rarr;"
+msgstr "Lire la suite &rarr;"
+
+# @ waipoua
+#: content-aside.php:16 content-audio.php:16 content-chat.php:16
+#: content-gallery.php:16 content-image.php:16 content-link.php:16
+#: content-page.php:27 content-quote.php:16 content-single.php:16
+#: content-status.php:16 content-video.php:16 content.php:16
+msgid "Edit Post &rarr;"
+msgstr "Editer le billet &rarr;"
+
+# @ waipoua
+#: includes/theme-options.php:200
+msgid ". Then copy your logo image file URL and insert the URL here."
+msgstr ". Puis copiez l'URL du fichier de votre image et collez-la ici."
+
+# @ waipoua
+#: includes/theme-options.php:209
+msgid ""
+"Create a <strong>16x16px</strong> image and generate a .ico favicon using a "
+"favicon online generator (e.g. <a href=\"http://www.faviconr.com/\" target="
+"\"_blank\">Faviconr</a>). Now upload your favicon to your themes folder (via "
+"FTP) and enter your Favicon URL here (the URL path should be similar to: "
+"yourdomain.com/wp-content/themes/waipoua/favicon.ico)."
+msgstr ""
+"Créez une image de <strong>16x16px</strong> et crééz une favicon en "
+"utilisant en générateur de favicon en ligne (par ex. <a href=\"http://www."
+"faviconr.com/\" target=\"_blank\">Faviconr</a>). Puis téléchargez votre "
+"favico dans le dossier de votre thème (par FTP) et indiquez ici l'URL de "
+"votre Favicon (le chemin de l'URL doit ressembler à : yourdomain.com/wp-"
+"content/themes/waipoua/favicon.ico)."
+
+# @ waipoua
+#: includes/theme-options.php:214 includes/theme-options.php:216
+msgid "Custom Apple Touch Icon"
+msgstr "Icone Apple Touch personnalisée"
+
+# @ default
+#: includes/theme-options.php:217
+msgid "custom_apple_icon"
+msgstr ""
+
+# @ waipoua
+#: includes/theme-options.php:218
+msgid ""
+"Create a <strong>128x128px png</strong> image for your webclip icon. Upload "
+"your image using the "
+msgstr ""
+"Crééz une image de <strong>128x128px png</strong> et téléchargez votre image "
+"en utilisant le  "
+
+# @ waipoua
+#: includes/theme-options.php:218
+msgid ". Now copy the image file URL and insert the URL here."
+msgstr ". Puis copiez l'URL du fichier de votre image et collez son URL ici/"
+
+# @ waipoua
+#: includes/theme-options.php:245
+msgid ""
+"Check this box to include the share post buttons <strong>only</strong> on "
+"single post pages (below the post content)."
+msgstr ""
+"Cochez cette option pour inclure les boutons de partage <strong>uniquement</"
+"strong> sur la page individuelle de chaque billet (sous le contenu du "
+"billet)."
+
+# @ waipoua
+#: includes/theme-options.php:254
+msgid "Check this box to also include the share buttons on pages."
+msgstr ""
+"Cochez cette option pour aussi inclure les boutons de partage sur les pages."
+
+# @ waipoua
+#: share.php:10
+msgid "Share"
+msgstr "Partager"
+
+# @ waipoua
+#: footer.php:20
+msgid "Proudly powered by"
+msgstr "Fièrement motorisé par"
+
+# @ waipoua
+#: footer.php:21
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr "Thème : %1$s par %2$s"
+
+# @ waipoua
+#: functions.php:229
+msgid "Sidebar"
+msgstr "Sidebar"
+
+# @ waipoua
+#: functions.php:231
+msgid "Main sidebar area"
+msgstr "Zone principale de la sidebar"
+
+# @ waipoua
+#: header.php:74
+msgid "Menu"
+msgstr "Menu"
+
+# @ waipoua
+#: archive.php:19
+#, php-format
+msgid "Posts in Category &lsquo;%s&rsquo;"
+msgstr "Billets dans la catégorie &lsquo;%s&rsquo;"
+
+# @ waipoua
+#: archive.php:22
+#, php-format
+msgid "Posts Tagged &lsquo;%s&rsquo;"
+msgstr "Billets tagués &lsquo;%s&rsquo;"
+
+# @ waipoua
+#: archive.php:26
+#, php-format
+msgid "All Posts by %s"
+msgstr "Tous les billets par %s"
+
+# @ waipoua
+#: archive.php:30
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes : %s"
+
+# @ waipoua
+#: archive.php:33
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles : %s"
+
+# @ waipoua
+#: archive.php:36
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles : %s"
+
+# @ waipoua
+#: archive.php:39
+msgid "Archives"
+msgstr "Archives"
+
+# @ waipoua
+#: archive.php:81
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semblerait que nous ne puissions trouver ce que vous recherchez. Peut-"
+"être une recherche pourra vous aider."
+
+# @ waipoua
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: comments.php:29 content-aside.php:15 content-audio.php:15
+#: content-chat.php:15 content-featured.php:15 content-gallery.php:15
+#: content-image.php:15 content-link.php:15 content-quote.php:15
+#: content-single.php:15 content-status.php:15 content-video.php:15
+#: content.php:15
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 commentaire"
+msgstr[1] "%1$s commentaires"
+
+# @ waipoua
+#: comments.php:32
+msgid "&raquo; Write a comment"
+msgstr "&raquo; Ecrire un commentaire"
+
+# @ waipoua
+#: comments.php:75
+msgid "Send Comment"
+msgstr "Envoyer le commentaire"
+
+# @ waipoua
+#: content-aside.php:30 content-audio.php:30 content-chat.php:30
+#: content-gallery.php:30 content-image.php:26 content-link.php:26
+#: content-quote.php:26 content-single.php:34 content-status.php:26
+#: content-video.php:26 content.php:43
+msgid "Posted in:"
+msgstr "Publié dans : "
+
+# @ waipoua
+#: content-single.php:37
+msgid "Tagged:"
+msgstr "Etiquetté :"
+
+# @ waipoua
+#: featured.php:44
+msgid " Featured Posts"
+msgstr "Billets mis en avant"
+
+# @ waipoua
+#: footer.php:20
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+# @ waipoua
+#: footer.php:28
+msgid "Top &#8593;"
+msgstr "Top &#8593;"
+
+# @ waipoua
+#: functions.php:71
+msgid "Footer Navigation (no sub menus supported)"
+msgstr "Footer Navigation (les sous-menus ne sont pas supportés)"
+
+# @ waipoua
+#: functions.php:239
+msgid "Header Widget Area"
+msgstr "Zone des Widgets de l'en-tête"
+
+# @ waipoua
+#: functions.php:241
+msgid ""
+"You can include the Social Links Widget, an advertisement banner (e.g. via "
+"the Adrotate plugin) or a text widget to be displayed at the right header "
+"area."
+msgstr ""
+"Vous pouvez insérer le Social Links Widget, une bannière publicitaire (par "
+"ex, via le plugin Adrotate) ou un widget de texte à afficher dans la zone "
+"droite de l'en-tête."
+
+# @ waipoua
+#: functions.php:263
+msgid "&larr; Older entries"
+msgstr "&larr; Entrées plus anciennes"
+
+# @ waipoua
+#: functions.php:264
+msgid "Newer entries &rarr;"
+msgstr "Entrées plus récentes &rarr;"
+
+# @ waipoua
+#: functions.php:605
+msgid "Social Links Widget"
+msgstr "Social Links Widget"
+
+# @ waipoua
+#: functions.php:896
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+# @ waipoua
+#: functions.php:901
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+# @ waipoua
+#: functions.php:906
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+# @ waipoua
+#: functions.php:911
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+# @ waipoua
+#: functions.php:916
+msgid "Instagram URL (e.g. via Instagrid.me):"
+msgstr "Instagram URL (par ex. via Instagrid.me):"
+
+# @ waipoua
+#: functions.php:921
+msgid "Picasa URL:"
+msgstr "Picasa URL:"
+
+# @ waipoua
+#: functions.php:926
+msgid "500px URL:"
+msgstr "500px URL:"
+
+# @ waipoua
+#: functions.php:931
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+# @ waipoua
+#: functions.php:936
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+# @ waipoua
+#: functions.php:941
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+# @ waipoua
+#: functions.php:946
+msgid "Ffffound URL:"
+msgstr "Ffffound URL:"
+
+# @ waipoua
+#: functions.php:951
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+# @ waipoua
+#: functions.php:956
+msgid "Zootool URL:"
+msgstr "Zootool URL:"
+
+# @ waipoua
+#: functions.php:961
+msgid "Behance Network URL:"
+msgstr "Behance Network URL:"
+
+# @ waipoua
+#: functions.php:966
+msgid "deviantART URL:"
+msgstr "deviantART URL:"
+
+# @ waipoua
+#: functions.php:971
+msgid "Squidoo URL:"
+msgstr "Squidoo URL:"
+
+# @ waipoua
+#: functions.php:976
+msgid "Slideshare URL:"
+msgstr "Slideshare URL:"
+
+# @ waipoua
+#: functions.php:981
+msgid "Last.fm URL:"
+msgstr "Last.fm URL:"
+
+# @ waipoua
+#: functions.php:986
+msgid "Grooveshark URL:"
+msgstr "Grooveshark URL:"
+
+# @ waipoua
+#: functions.php:991
+msgid "Soundcloud URL:"
+msgstr "Soundcloud URL:"
+
+# @ waipoua
+#: functions.php:996
+msgid "Foursquare URL:"
+msgstr "Foursquare URL:"
+
+# @ waipoua
+#: functions.php:1001
+msgid "GitHub URL:"
+msgstr "GitHub URL:"
+
+# @ waipoua
+#: functions.php:1006
+msgid "Linkedin URL:"
+msgstr "Linkedin URL:"
+
+# @ waipoua
+#: functions.php:1011
+msgid "Xing URL:"
+msgstr "Xing URL:"
+
+# @ waipoua
+#: functions.php:1016
+msgid "WordPress URL:"
+msgstr "WordPress URL:"
+
+# @ waipoua
+#: functions.php:1021
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+# @ waipoua
+#: functions.php:1026
+msgid "RSS-Feed URL:"
+msgstr "URL du flux RSS :"
+
+# @ waipoua
+#: functions.php:1031
+msgid "RSS for Comments URL:"
+msgstr "URL pour le flux RSS des commentaires :"
+
+# @ waipoua
+#: functions.php:1036
+msgid "Open all links in a new browser tab"
+msgstr "Ouvrir tous les liens dans un nouvel onglet du navigateur"
+
+# @ waipoua
+#: header.php:72
+msgid "Home"
+msgstr "Accueil"
+
+# @ waipoua
+#: image.php:82
+msgid "&larr; Previous Image"
+msgstr "&larr; Image précédente"
+
+# @ waipoua
+#: image.php:83
+msgid "Next Image &rarr;"
+msgstr "Image suivante &rarr;"
+
+# @ waipoua
+#: includes/theme-options.php:80
+msgid "Posts + Sidebar"
+msgstr "Billets + Sidebar"
+
+# @ waipoua
+#: includes/theme-options.php:85
+msgid "Posts + Sticky Posts Column + Sidebar"
+msgstr "Billets + Billets épinglés + Sidebar"
+
+# @ waipoua
+#: includes/theme-options.php:149
+#, php-format
+msgid ""
+"Choose your custom link color (the default Link Color: %s). Do not forget to "
+"include the # before the color value."
+msgstr ""
+"Choisissez une couleur personnalisées pour les liens (la couleur par défaut "
+"est : %s). N'oubliez pas d'inclure un # avant la valeur de la couleur."
+
+# @ waipoua
+#: includes/theme-options.php:154 includes/theme-options.php:156
+msgid "Custom Menu Background Color"
+msgstr "Couleur personnalisée pour l'arrière-plan du menu"
+
+# @ waipoua
+#: includes/theme-options.php:160
+#, php-format
+msgid ""
+"Choose your own custom main menu background color (default Background Color: "
+"%s)."
+msgstr ""
+"Choisissez votre propre couleur d'arrière-plan pour le menu principal (la "
+"couleur d'arrière-plan par défaut est : %s)."
+
+# @ waipoua
+#: includes/theme-options.php:165 includes/theme-options.php:167
+msgid "Blog Layout Option"
+msgstr "Options de mise en page du blog"
+
+# @ waipoua
+#: includes/theme-options.php:187 includes/theme-options.php:189
+msgid "Sticky Posts Headline"
+msgstr "Titre des billets épinglés"
+
+# @ default
+#: includes/theme-options.php:190
+msgid "featured_headline"
+msgstr ""
+
+# @ waipoua
+#: includes/theme-options.php:191
+msgid ""
+"Customize the Sticky Posts headline on the blogs front page. Default is "
+"\"Featured Posts\" (for the Posts + Sticky Posts Column + Sidebar layout "
+"only)."
+msgstr ""
+"Personnalisez les titres des billets épinglés en page d'accueil. Par défaut, "
+"c'est \"Billets épinglés\" (uniquement pour la mise en page billets + "
+"colonne de billets épinglés + Sidebar)."
+
+# @ waipoua
+#: includes/theme-options.php:223
+msgid "Custom Footer Text"
+msgstr "Pied de page personnalisé"
+
+# @ waipoua
+#: includes/theme-options.php:236
+msgid ""
+"Check this box to include share buttons (for Twitter, Facebook, Google+) on "
+"your blogs front page and on single post pages."
+msgstr ""
+"Cochez cette option pour inclure des boutons de partage (pour Twitter, Google"
+"+, Facebook) sur la page d'accueil de votre blog et les pages individuelles."
+
+# @ waipoua
+#: search.php:15
+#, php-format
+msgid "Search Results for &lsquo;%s&rsquo;"
+msgstr "Résultats de la recherche pour &lsquo;%s&rsquo;"
+
+# @ waipoua
+#: searchform.php:10 searchform.php:11
+msgid "Search"
+msgstr "Chercher"
+
+# @ waipoua
+#: single.php:23
+msgid "Next Post &rarr;"
+msgstr "Billet suivant &rarr;"
+
+# @ waipoua
+#: single.php:24
+msgid "&larr; Previous Post"
+msgstr "&larr; Billet précédent"
+
+# @ waipoua
+#: image.php:62
+#, php-format
+msgid ""
+"<li class=\"image-size\"><span>Image Size:</span> <a href=\"%3$s\" title="
+"\"Link to full-size image\">%4$s&times;%5$s pixels</a> </li>\n"
+"\t\t\t\t\t\t<li><span>Posted in:</span> <a href=\"%6$s\" title=\"%7$s\">"
+"%7$s</a></li>"
+msgstr ""
+"<li class=\\\"image-size\\\"><span>Taille image :</span> <a href=\\\"%3$s\\"
+"\" title=\\\"Link to full-size image\\\">%4$s&times;%5$s pixels</a> </"
+"li><li><span>Publié dans :</span> <a href=\\\"%6$s\\\" title=\\\"%7$s\\\">"
+"%7$s</a></li>"

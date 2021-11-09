@@ -1,0 +1,856 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Waipoua v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-09-22 18:33+0830\n"
+"Last-Translator: Jensen <fersken@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ waipoua
+#: 404.php:15
+msgid "Not Found"
+msgstr "Ikke fundet"
+
+#@ waipoua
+#: 404.php:19
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Beklager, men siden findes ikke. Måske kan du prøve en ny søgning?"
+
+#@ waipoua
+#: content-featured.php:35
+#: content-single.php:29
+#: content.php:36
+msgid "Pages:"
+msgstr "Sider:"
+
+#@ waipoua
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dette er beskyttet med password. Skriv dit password for at se kommentarne. "
+
+#@ waipoua
+#: content-aside.php:21
+#: content-audio.php:21
+#: content-chat.php:21
+#: content-featured.php:20
+#: content-gallery.php:21
+#: content.php:21
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permanent link til %s"
+
+#@ waipoua
+#: functions.php:70
+msgid "Primary Navigation"
+msgstr "Hovedmenu"
+
+#@ waipoua
+#: header.php:37
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+#@ waipoua
+#: functions.php:185
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#@ waipoua
+#: functions.php:200
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar venter på at blive godkendt. "
+
+#@ waipoua
+#: archive.php:77
+#: search.php:31
+msgid "Nothing Found"
+msgstr "Ingen resultater"
+
+#@ waipoua
+#: search.php:34
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Beklager, men din søgning gav ingen resultater. Prøv en ny søgning med andre ord. "
+
+#@ waipoua
+#: functions.php:494
+#: functions.php:581
+#: functions.php:891
+msgid "Title:"
+msgstr "Titel:"
+
+#@ default
+#: includes/theme-options.php:199
+msgid "custom_logo"
+msgstr "custom_logo"
+
+#@ waipoua
+#: comments.php:74
+msgctxt "noun"
+msgid "Message <span class=\"required\">*</span>"
+msgstr "Meddelande <span class=\"required\">*</span>"
+
+#@ waipoua
+#: includes/theme-options.php:63
+#: includes/theme-options.php:64
+msgid "Theme Options"
+msgstr "Temaalternativ"
+
+#@ waipoua
+#: includes/theme-options.php:131
+#, php-format
+msgid "%s Theme Options"
+msgstr "%s Temaalternativ"
+
+#@ waipoua
+#: includes/theme-options.php:145
+msgid "Link Color"
+msgstr "Link farve"
+
+#@ waipoua
+#: functions.php:186
+msgid "Reply"
+msgstr "Svar"
+
+#@ waipoua
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Lukket for kommentarer. "
+
+#@ waipoua
+#: functions.php:514
+msgid "Number of photos:"
+msgstr "Antal billeder:"
+
+#@ waipoua
+#: functions.php:525
+msgid "User"
+msgstr "Brugere"
+
+#@ waipoua
+#: functions.php:526
+msgid "Group"
+msgstr "Gruppe"
+
+#@ waipoua
+#: functions.php:530
+msgid "Show latest or random pictures:"
+msgstr "Vis nyeste eller tilfældigt billede:"
+
+#@ waipoua
+#: functions.php:532
+msgid "Latest"
+msgstr "Nyeste"
+
+#@ waipoua
+#: functions.php:533
+msgid "Random"
+msgstr "Tilfældig"
+
+#@ waipoua
+#: functions.php:523
+msgid "Choose user or group:"
+msgstr "Vælg bruger eller gruppe"
+
+#@ waipoua
+#: functions.php:453
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+#@ waipoua
+#: functions.php:499
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+
+#@ waipoua
+#: includes/theme-options.php:198
+msgid "Custom Logo image"
+msgstr "Eget logo billede"
+
+#@ waipoua
+#: includes/theme-options.php:205
+#: includes/theme-options.php:207
+msgid "Custom Favicon"
+msgstr "Eget Favicon"
+
+#@ default
+#: includes/theme-options.php:208
+msgid "custom_favicon"
+msgstr "custom_favicon"
+
+#@ waipoua
+#: includes/theme-options.php:225
+msgid "Custom Footer text"
+msgstr "Egen tekst til footer"
+
+#@ waipoua
+#: includes/theme-options.php:227
+msgid "Customize the footer credit text. Standard HTML is allowed."
+msgstr "Skriv din egen tekst til sidefod. Du kan bruge standard HTML. "
+
+#@ waipoua
+#: content-aside.php:15
+#: content-audio.php:15
+#: content-chat.php:15
+#: content-featured.php:15
+#: content-gallery.php:15
+#: content-image.php:15
+#: content-link.php:15
+#: content-quote.php:15
+#: content-single.php:15
+#: content-status.php:15
+#: content-video.php:15
+#: content.php:15
+msgid "0 comments"
+msgstr "Ingen kommentar"
+
+#@ waipoua
+#: content-aside.php:15
+#: content-audio.php:15
+#: content-chat.php:15
+#: content-featured.php:15
+#: content-gallery.php:15
+#: content-image.php:15
+#: content-link.php:15
+#: content-quote.php:15
+#: content-single.php:15
+#: content-status.php:15
+#: content-video.php:15
+#: content.php:15
+msgid "% comments"
+msgstr "% kommentarer"
+
+#@ waipoua
+#: content-aside.php:15
+#: content-audio.php:15
+#: content-chat.php:15
+#: content-featured.php:15
+#: content-gallery.php:15
+#: content-image.php:15
+#: content-link.php:15
+#: content-quote.php:15
+#: content-single.php:15
+#: content-status.php:15
+#: content-video.php:15
+#: content.php:15
+msgid "comments off"
+msgstr "Lukket for kommentarer"
+
+#@ waipoua
+#. translators: 1: date, 2: time
+#: functions.php:190
+#, php-format
+msgid "%1$s &#64; %2$s"
+msgstr "%1$s &#64; %2$s"
+
+#@ waipoua
+#: comments.php:73
+msgid "<p class=\"comment-note\">Required fields are marked <span class=\"required\">*</span>.</p>"
+msgstr "<p class=\"comment-note\">Obligatoriska fält är markerade med en <span class=\"required\">*</span> .</p>"
+
+#@ waipoua
+#: functions.php:504
+msgid "Flickr Profile Link Text:"
+msgstr "Flickr-Profil link text:"
+
+#@ waipoua
+#: functions.php:509
+msgid "Flickr Profile URL:"
+msgstr "Flickr profil URL:"
+
+#@ waipoua
+#: functions.php:551
+msgid "Video Widget"
+msgstr "Video Widget"
+
+#@ waipoua
+#: functions.php:586
+msgid "Video embed code:"
+msgstr "Video embed:"
+
+#@ waipoua
+#: footer.php:20
+msgid "WordPress"
+msgstr "WordPress"
+
+#@ waipoua
+#: content-single.php:52
+#, php-format
+msgid "Posted by %s"
+msgstr "Skrevet af %s"
+
+#@ waipoua
+#: includes/theme-options.php:196
+msgid "Custom Logo"
+msgstr "Eget logo"
+
+#@ waipoua
+#: includes/theme-options.php:232
+#: includes/theme-options.php:234
+msgid "Share option for posts"
+msgstr "Social deling til artikler"
+
+#@ waipoua
+#: includes/theme-options.php:241
+#: includes/theme-options.php:243
+msgid "Share option for single post pages only"
+msgstr "Social deling til enkelte artikler"
+
+#@ waipoua
+#: includes/theme-options.php:250
+#: includes/theme-options.php:252
+msgid "Share option for pages"
+msgstr "Social deling til sider"
+
+#@ waipoua
+#: share.php:14
+msgid "Tweet"
+msgstr "Tweet"
+
+#@ waipoua
+#: includes/theme-options.php:200
+#: includes/theme-options.php:218
+msgid "WordPress Media Uploader"
+msgstr "WordPress Media Uploader"
+
+#@ waipoua
+#: footer.php:51
+msgid "en_US"
+msgstr "da_DK"
+
+#@ waipoua
+#: functions.php:214
+msgid "<span>Pingback:</span>"
+msgstr "<span>Pingback:</span>"
+
+#@ waipoua
+#: includes/theme-options.php:200
+msgid "Upload your own logo image using the "
+msgstr "Upload dit eget logo billede ved at bruge"
+
+#@ waipoua
+#: includes/theme-options.php:143
+msgid "Custom Link Color"
+msgstr "Egen link farve"
+
+#@ waipoua
+#: comments.php:48
+msgid "&larr;  Older Comments"
+msgstr "&larr;  Ældre kommentarer"
+
+#@ waipoua
+#: comments.php:49
+msgid "Newer Comments  &rarr;"
+msgstr "Nyere kommentarer  &rarr;"
+
+#@ waipoua
+#: functions.php:194
+#: functions.php:215
+msgid "Edit &rarr;"
+msgstr "Rediger &rarr;"
+
+#@ waipoua
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:25
+#: content-featured.php:34
+#: content-gallery.php:25
+#: content-image.php:21
+#: content-link.php:21
+#: content-quote.php:21
+#: content-status.php:21
+#: content-video.php:21
+#: content.php:35
+#: functions.php:125
+msgid "Read more &rarr;"
+msgstr "Læs mere &rarr;"
+
+#@ waipoua
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:16
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:16
+#: content-page.php:27
+#: content-quote.php:16
+#: content-single.php:16
+#: content-status.php:16
+#: content-video.php:16
+#: content.php:16
+msgid "Edit Post &rarr;"
+msgstr "Rediger artikel &rarr;"
+
+#@ waipoua
+#: includes/theme-options.php:200
+msgid ". Then copy your logo image file URL and insert the URL here."
+msgstr ". kopier derefter URL til dit logo billede og indsæt URL her."
+
+#@ waipoua
+#: includes/theme-options.php:209
+msgid "Create a <strong>16x16px</strong> image and generate a .ico favicon using a favicon online generator (e.g. <a href=\"http://www.faviconr.com/\" target=\"_blank\">Faviconr</a>). Now upload your favicon to your themes folder (via FTP) and enter your Favicon URL here (the URL path should be similar to: yourdomain.com/wp-content/themes/waipoua/favicon.ico)."
+msgstr "Lav et <strong>16x16px</strong> billede eller et .ico favicon ved at bruge en online generator (e.g. <a href=\"http://www.faviconr.com/\" target=\"_blank\">Faviconr</a>). Upload derefter dit favikon til din tema mappe (via FTP) og skriv din Favicon URL her (din URL adresse bør være som: yourdomain.com/wp-content/themes/waipoua/favicon.ico)."
+
+#@ waipoua
+#: includes/theme-options.php:214
+#: includes/theme-options.php:216
+msgid "Custom Apple Touch Icon"
+msgstr "Eget Apple Touch Ikon"
+
+#@ default
+#: includes/theme-options.php:217
+msgid "custom_apple_icon"
+msgstr "custom_apple_icon"
+
+#@ waipoua
+#: includes/theme-options.php:218
+msgid "Create a <strong>128x128px png</strong> image for your webclip icon. Upload your image using the "
+msgstr "Lav et <strong>128x128px png</strong> stort billede med for webclip ikon. Uplad dit billede ved at bruge"
+
+#@ waipoua
+#: includes/theme-options.php:218
+msgid ". Now copy the image file URL and insert the URL here."
+msgstr ". Kopier nu linket til billede og sæt det ind her. "
+
+#@ waipoua
+#: includes/theme-options.php:245
+msgid "Check this box to include the share post buttons <strong>only</strong> on single post pages (below the post content)."
+msgstr "Klik denne boks for at inkludere social deling <strong>kun</strong>på hver enkelt artikels side (under tekst)."
+
+#@ waipoua
+#: includes/theme-options.php:254
+msgid "Check this box to also include the share buttons on pages."
+msgstr "Klik denne boks for også at inkludere social deling på sider. "
+
+#@ waipoua
+#: share.php:10
+msgid "Share"
+msgstr "Del"
+
+#@ waipoua
+#: footer.php:20
+msgid "Proudly powered by"
+msgstr "Er stolt af at køre på "
+
+#@ waipoua
+#: footer.php:21
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema: %1$s fra %2$s"
+
+#@ waipoua
+#: functions.php:229
+msgid "Sidebar"
+msgstr "Sidekolonne"
+
+#@ waipoua
+#: functions.php:231
+msgid "Main sidebar area"
+msgstr "Primær felt med sidebar"
+
+#@ waipoua
+#: header.php:74
+msgid "Menu"
+msgstr "Menu"
+
+#@ waipoua
+#: archive.php:19
+#, php-format
+msgid "Posts in Category &lsquo;%s&rsquo;"
+msgstr "Artikler i kategorien &lsquo;%s&rsquo;"
+
+#@ waipoua
+#: archive.php:22
+#, php-format
+msgid "Posts Tagged &lsquo;%s&rsquo;"
+msgstr "Artikler med emnet &lsquo;%s&rsquo;"
+
+#@ waipoua
+#: archive.php:26
+#, php-format
+msgid "All Posts by %s"
+msgstr "Alle artikler af %s"
+
+#@ waipoua
+#: archive.php:30
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagligt arkiv: %s"
+
+#@ waipoua
+#: archive.php:33
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Månedsarkiv: %s"
+
+#@ waipoua
+#: archive.php:36
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Årsarkiv: %s"
+
+#@ waipoua
+#: archive.php:39
+msgid "Archives"
+msgstr "Arkiv"
+
+#@ waipoua
+#: archive.php:81
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Desværre, vi kan ikke findet det, du leder efter. Hvad med at prøve en søgning?"
+
+#@ waipoua
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: comments.php:29
+#: content-aside.php:15
+#: content-audio.php:15
+#: content-chat.php:15
+#: content-featured.php:15
+#: content-gallery.php:15
+#: content-image.php:15
+#: content-link.php:15
+#: content-quote.php:15
+#: content-single.php:15
+#: content-status.php:15
+#: content-video.php:15
+#: content.php:15
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#@ waipoua
+#: comments.php:32
+msgid "&raquo; Write a comment"
+msgstr "&raquo; Skriv en kommentar"
+
+#@ waipoua
+#: comments.php:75
+msgid "Send Comment"
+msgstr "Send kommentar"
+
+#@ waipoua
+#: content-aside.php:30
+#: content-audio.php:30
+#: content-chat.php:30
+#: content-gallery.php:30
+#: content-image.php:26
+#: content-link.php:26
+#: content-quote.php:26
+#: content-single.php:34
+#: content-status.php:26
+#: content-video.php:26
+#: content.php:43
+msgid "Posted in:"
+msgstr "Publiceret i:"
+
+#@ waipoua
+#: content-single.php:37
+msgid "Tagged:"
+msgstr "Med emne:"
+
+#@ waipoua
+#: featured.php:44
+msgid " Featured Posts"
+msgstr "Udvalgte artikler"
+
+#@ waipoua
+#: footer.php:20
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#@ waipoua
+#: footer.php:28
+msgid "Top &#8593;"
+msgstr "Topp &#8593;"
+
+#@ waipoua
+#: functions.php:71
+msgid "Footer Navigation (no sub menus supported)"
+msgstr "Menu i sidefod (footer) (understøtter ikke undermenuer)"
+
+#@ waipoua
+#: functions.php:239
+msgid "Header Widget Area"
+msgstr "Widget i header område"
+
+#@ waipoua
+#: functions.php:241
+msgid "You can include the Social Links Widget, an advertisement banner (e.g. via the Adrotate plugin) or a text widget to be displayed at the right header area."
+msgstr "Du kan inkludere Social Links Widget, en bannerreklame (for eksempel med Adrotate plugin) eller en tekswidget  til visning i højre område af header. "
+
+#@ waipoua
+#: functions.php:263
+msgid "&larr; Older entries"
+msgstr "&larr; Ældre artikler"
+
+#@ waipoua
+#: functions.php:264
+msgid "Newer entries &rarr;"
+msgstr "Nyere artikler &rarr;"
+
+#@ waipoua
+#: functions.php:605
+msgid "Social Links Widget"
+msgstr "Social Links Widget"
+
+#@ waipoua
+#: functions.php:896
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#@ waipoua
+#: functions.php:901
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#@ waipoua
+#: functions.php:906
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+#@ waipoua
+#: functions.php:911
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+#@ waipoua
+#: functions.php:916
+msgid "Instagram URL (e.g. via Instagrid.me):"
+msgstr "Instagram URL (via Instagrid.me):"
+
+#@ waipoua
+#: functions.php:921
+msgid "Picasa URL:"
+msgstr "Picasa URL:"
+
+#@ waipoua
+#: functions.php:926
+msgid "500px URL:"
+msgstr "500px URL:"
+
+#@ waipoua
+#: functions.php:931
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+#@ waipoua
+#: functions.php:936
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+#@ waipoua
+#: functions.php:941
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+#@ waipoua
+#: functions.php:946
+msgid "Ffffound URL:"
+msgstr "Ffffound URL:"
+
+#@ waipoua
+#: functions.php:951
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#@ waipoua
+#: functions.php:956
+msgid "Zootool URL:"
+msgstr "Zootool URL:"
+
+#@ waipoua
+#: functions.php:961
+msgid "Behance Network URL:"
+msgstr "Behance Network URL:"
+
+#@ waipoua
+#: functions.php:966
+msgid "deviantART URL:"
+msgstr "deviantART URL:"
+
+#@ waipoua
+#: functions.php:971
+msgid "Squidoo URL:"
+msgstr "Squidoo URL:"
+
+#@ waipoua
+#: functions.php:976
+msgid "Slideshare URL:"
+msgstr "Slideshare URL:"
+
+#@ waipoua
+#: functions.php:981
+msgid "Last.fm URL:"
+msgstr "Last.fm URL:"
+
+#@ waipoua
+#: functions.php:986
+msgid "Grooveshark URL:"
+msgstr "Grooveshark URL:"
+
+#@ waipoua
+#: functions.php:991
+msgid "Soundcloud URL:"
+msgstr "Soundcloud URL:"
+
+#@ waipoua
+#: functions.php:996
+msgid "Foursquare URL:"
+msgstr "Foursquare URL:"
+
+#@ waipoua
+#: functions.php:1001
+msgid "GitHub URL:"
+msgstr "GitHub URL:"
+
+#@ waipoua
+#: functions.php:1006
+msgid "Linkedin URL:"
+msgstr "Linkedin URL:"
+
+#@ waipoua
+#: functions.php:1011
+msgid "Xing URL:"
+msgstr "Xing URL:"
+
+#@ waipoua
+#: functions.php:1016
+msgid "WordPress URL:"
+msgstr "WordPress URL:"
+
+#@ waipoua
+#: functions.php:1021
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+#@ waipoua
+#: functions.php:1026
+msgid "RSS-Feed URL:"
+msgstr "RSS-Feed URL:"
+
+#@ waipoua
+#: functions.php:1031
+msgid "RSS for Comments URL:"
+msgstr "RSS til kommentarer URL:"
+
+#@ waipoua
+#: functions.php:1036
+msgid "Open all links in a new browser tab"
+msgstr "Åben alle links i ny fane i browser"
+
+#@ waipoua
+#: header.php:72
+msgid "Home"
+msgstr "Hjem"
+
+#@ waipoua
+#: image.php:82
+msgid "&larr; Previous Image"
+msgstr "&larr; Tidligere billede"
+
+#@ waipoua
+#: image.php:83
+msgid "Next Image &rarr;"
+msgstr "Næste billede &rarr;"
+
+#@ waipoua
+#: includes/theme-options.php:80
+msgid "Posts + Sidebar"
+msgstr "Artikler + Sidefelt"
+
+#@ waipoua
+#: includes/theme-options.php:85
+msgid "Posts + Sticky Posts Column + Sidebar"
+msgstr "Artikler + Sticky post kolonne + Sidebar"
+
+#@ waipoua
+#: includes/theme-options.php:149
+#, php-format
+msgid "Choose your custom link color (the default Link Color: %s). Do not forget to include the # before the color value."
+msgstr "Vælg din egen link farve (standard farve er %s). Glem ikke at inkludere # før farvevalg."
+
+#@ waipoua
+#: includes/theme-options.php:154
+#: includes/theme-options.php:156
+msgid "Custom Menu Background Color"
+msgstr "Egen farve på baggrund i menu"
+
+#@ waipoua
+#: includes/theme-options.php:160
+#, php-format
+msgid "Choose your own custom main menu background color (default Background Color: %s)."
+msgstr "Vælg din egen baggrundsfarve til hovedmenu (standard farve er: %s)."
+
+#@ waipoua
+#: includes/theme-options.php:165
+#: includes/theme-options.php:167
+msgid "Blog Layout Option"
+msgstr "Bloglayout"
+
+#@ waipoua
+#: includes/theme-options.php:187
+#: includes/theme-options.php:189
+msgid "Sticky Posts Headline"
+msgstr "Overskrift for Sticky Posts"
+
+#@ default
+#: includes/theme-options.php:190
+msgid "featured_headline"
+msgstr "featured_headline"
+
+#@ waipoua
+#: includes/theme-options.php:191
+msgid "Customize the Sticky Posts headline on the blogs front page. Default is \"Featured Posts\" (for the Posts + Sticky Posts Column + Sidebar layout only)."
+msgstr "Skriv en overskrift til Sticky Posts på bloggens forside. Standard valg er \"Udvalgte artikler\"  (dette gælder kun for Artikler og Sticky Posts)"
+
+#@ waipoua
+#: includes/theme-options.php:223
+msgid "Custom Footer Text"
+msgstr "Egen tekst i sidefod"
+
+#@ waipoua
+#: includes/theme-options.php:236
+msgid "Check this box to include share buttons (for Twitter, Facebook, Google+) on your blogs front page and on single post pages."
+msgstr "Sæt kryds her hvis du vil have knapper for socialdeling (med Twitter, Google+, Facebook) på forsiden og sider med artikler. "
+
+#@ waipoua
+#: search.php:15
+#, php-format
+msgid "Search Results for &lsquo;%s&rsquo;"
+msgstr "Søgeresultat for &lsquo;%s&rsquo;"
+
+#@ waipoua
+#: searchform.php:10
+#: searchform.php:11
+msgid "Search"
+msgstr "Søg"
+
+#@ waipoua
+#: single.php:23
+msgid "Next Post &rarr;"
+msgstr "Næste artikel &rarr;"
+
+#@ waipoua
+#: single.php:24
+msgid "&larr; Previous Post"
+msgstr "&larr; Tidligere artikel"
+
+#@ waipoua
+#: image.php:62
+#, php-format
+msgid ""
+"<li class=\"image-size\"><span>Image Size:</span> <a href=\"%3$s\" title=\"Link to full-size image\">%4$s&times;%5$s pixels</a> </li>\n"
+"\t\t\t\t\t\t<li><span>Posted in:</span> <a href=\"%6$s\" title=\"%7$s\">%7$s</a></li>"
+msgstr "<li class=\\\"image-size\\\"><span>Billedstørrelse:</span> <a href=\\\"%3$s\\\" title=\\\"Link til billede i fuld størrelse\\\">%4$s&times;%5$s pixels</a> </li><li><span>Publiceret i:</span> <a href=\\\"%6$s\\\" title=\\\"%7$s\\\">%7$s</a></li>"
+
