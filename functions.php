@@ -137,17 +137,6 @@ function waipoua() {
 endif;
 
 /*-----------------------------------------------------------------------------------*/
-/* Include Google Webfonts
-/*-----------------------------------------------------------------------------------*/
-
-function load_waipoua_fonts() {
-					wp_register_style('googleFonts', 'https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Oswald');
-					wp_enqueue_style( 'googleFonts');
-			 }
-
-add_action('wp_print_styles', 'load_waipoua_fonts');
-
-/*-----------------------------------------------------------------------------------*/
 /* Call JavaScript Scripts for Waipoua (Fitvids for elasic videos, Custom and Placeholder)
 /*-----------------------------------------------------------------------------------*/
 
